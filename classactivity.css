@@ -1,0 +1,36 @@
+/*Body*/
+
+body {
+	font-family: "Roboto", sans-serif;
+	font-weight: bold;
+	margin-width: 20px;
+}
+
+/*Making header*/
+header {
+	background-color: black;
+	color:white;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+}
+
+/*Centering*/
+div {
+
+
+}
+
+/*Structuring image to left*/
+img {
+	float: left;
+	padding: 15px;
+	margin-right: 10px;
+}
+
+/*Structuring Contact*/
+li {
+	list-style-type: none;
+
+
+}
